@@ -1,0 +1,160 @@
+#mammad1
+{
+    text-align: right;
+    padding: auto;
+    margin:auto;
+position: relative;
+bottom: 10px;
+}
+#aks1
+{
+    margin-left: 440px;
+text-align: center;
+border-radius: 50px;
+box-shadow: 5px 5px 5px;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(45, 45, 189);
+}
+a:hover
+{
+   color: blue;
+}
+li
+{
+    display: inline;
+    padding: 10px;
+    margin-top: 120px;
+
+}
+#mammad2
+{
+    display: inline;
+
+}
+#ata
+{
+    color: red;
+}
+#ata:hover
+{
+    color: brown;
+}
+#mammad4
+{
+   position: absolute;
+   bottom: 435px; 
+   left: -10px;
+ 
+}
+#abolfazl
+{
+    position: absolute;
+    bottom: 435px;
+    left: 1290px;
+    font-size: x-large;
+}
+#jack
+{
+    font-size: 20px;
+}
+
+
+#mramir
+{
+    font-size: 21px;
+}
+span
+{
+    font-size: 19px;
+position: absolute;
+bottom: -50px;
+left: 100px;
+color: rgb(255, 0, 0);
+}
+.mammad7
+{
+    background-image:linear-gradient(to right,rgb(0, 255, 21),rgb(174, 255, 0),yellow,rgb(0, 255, 229) );
+ height:400px;
+ width: 1550px;
+position: absolute;
+bottom: -500px;
+left: -15px;
+margin: 0px;
+padding:0px;
+border-radius: 50px;
+}
+#mohem
+{
+    position: absolute;
+    bottom:-400px;
+    left: 900px;
+    margin: 0%;
+}
+#mohem
+{
+    font-size: large;
+    text-shadow: 2px 2px 20px;
+   
+}
+body
+{
+    width: 98%;
+}
+#aks4
+{
+    position: absolute;
+    bottom: -450px;
+    left: 1250px;
+    border-radius: 50px;
+}
+#aks5
+{
+    position: absolute;
+    bottom: -420px;
+    left: 70px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px;
+}
+#mammad5
+{
+    font-size: x-large;
+    position: absolute;
+    left: 450px;
+    bottom: 100px;
+}
+#yaali
+{
+    position: absolute;
+    bottom: 80px;
+    left: 150px;
+}
+#asgar
+{
+    position: absolute;
+    bottom:70px;
+    left: 1100px;
+    border-radius: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+#gang
+{
+    color: red;
+    font-size: 20px;
+    position: absolute;
+    bottom: 2px;
+    left: 1080px;
+    display: inline;
+
+}
+body
+{
+    width: 97%;
+}
+hr
+{
+   width:  1550px;
+}
